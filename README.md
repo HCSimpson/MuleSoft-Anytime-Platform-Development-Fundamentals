@@ -18,4 +18,4 @@ This repo contains the work I completed while taking MuleSoft's "[Anypoint Platf
 
 ## <a name="install"></a>Install
 
-This project utilizes [Anypoint Studio](https://www.mulesoft.com/platform/studio "Anypoint Studio") version 7.13 and [Anypoint Studio](https://install.advancedrestclient.com "Advanced Rest Client").
+This project utilizes [Anypoint Studio](https://www.mulesoft.com/platform/studio "Anypoint Studio") version 7.13 and [Advanced Rest Client](https://install.advancedrestclient.com "Advanced Rest Client").

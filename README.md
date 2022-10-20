@@ -4,7 +4,8 @@
 <br>
 This repository contains:
 
-1.
+1. Student files that were provided with the course.
+2.
 
 ## Table of Contents
 

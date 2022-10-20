@@ -14,7 +14,7 @@ This repository contains:
 
 ## <a name="background"></a>Background
 
-This repo contains the work I completed while taking MuleSoft's "Anypoint Platform Development: Fundamentals" self guided course on MuleSoft's training site.
+This repo contains the work I completed while taking MuleSoft's "[Anypoint Platform Development: Fundamentals](https://training.mulesoft.com/course/development-fundamentals-mule4-bootcamp "Anypoint Platform Development: Fundamentals")" self guided course on MuleSoft's training site.
 
 ## <a name="install"></a>Install
 

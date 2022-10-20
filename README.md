@@ -13,8 +13,8 @@ This repository contains:
 
 ## <a name="background"></a>Background
 
-This repo contains the work I completed while taking the "Anypoint Platform Development: Fundamentals" self guided course on MuleSoft's training site.
+This repo contains the work I completed while taking MuleSoft's "Anypoint Platform Development: Fundamentals" self guided course on MuleSoft's training site.
 
 ## <a name="install"></a>Install
 
-This project utilizes [Anypoint Studio](https://www.mulesoft.com/platform/studio "Anypoint Studio") version 7.13.
+This project utilizes [Anypoint Studio](https://www.mulesoft.com/platform/studio "Anypoint Studio") version 7.13 and [Anypoint Studio](https://install.advancedrestclient.com "Advanced Rest Client").

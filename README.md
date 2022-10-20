@@ -17,4 +17,4 @@ This repo contains the work I completed while taking the "Anypoint Platform Deve
 
 ## <a name="install"></a>Install
 
-This project utilizes [Anypoint Studio](https://www.mulesoft.com/platform/studio "Anypoint Studio").
+This project utilizes [Anypoint Studio](https://www.mulesoft.com/platform/studio "Anypoint Studio") version 7.13.
